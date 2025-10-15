@@ -9,3 +9,6 @@ gpx = "0.10"
 geo-types = "0.7"
 time = {version = "0.3", features = ["parsing"] }
 chrono = "0.4"
+
+[dev-dependencies]
+temp-dir = "0.1"
